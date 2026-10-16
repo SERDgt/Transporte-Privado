@@ -1,0 +1,11 @@
+# RUTIQ v1.4 — Rediseño visual
+
+- Imagen de marca: logotipo opción 2 elegido por el propietario.
+- Navegación inferior compacta con cinco secciones.
+- GPS para completar el punto de origen (requiere permiso y HTTPS).
+- Acceso directo a Google Maps para consultar ruta, kilómetros y duración manualmente.
+- **No** importa automáticamente kilometraje/tiempo desde Google Maps: esa función requiere configurar API y facturación.
+- Se mantienen las claves locales `ds_*` para preservar datos existentes al actualizar en el mismo dominio/navegador.
+- Realiza respaldo JSON antes de actualizar.
+- Para GitHub Pages, subir los archivos sueltos de esta carpeta a la raíz del repositorio (no la carpeta).
+- Recomendación: probar en navegador y comprobar historial y cierres antes de distribuir.
