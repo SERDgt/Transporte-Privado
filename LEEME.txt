@@ -5,3 +5,14 @@ Novedades: cotizador independiente de ida y vuelta, frecuencia por días, 5% de 
 IMPORTANTE: descarga y comprueba un respaldo JSON antes de desinstalar. Instalar o desinstalar la PWA puede borrar datos locales. Después de restaurar comprueba viajes, clientes, cuentas y pagos.
 
 Las cotizaciones programadas no crean viajes ni cobros automáticamente.
+
+RutFin v1.7.2: tablero de metas diarias y mensuales en Finanzas, vinculado a viajes y a la meta de ingresos. Incluye corrección previa de edición de metas.
+
+RutFin v1.8
+- Registro rápido de viajes por dictado en Cotizar y Viajes.
+- Voz a texto (API del navegador), interpretación básica de km, minutos, horas y tarifa.
+- Revisión editable y confirmación antes de guardar; confirmación por voz opcional.
+- Sin IA externa, sin envío de datos a servicios propios.
+- Conserva cotizador recurrente, descuento 5%, tablero de metas y corrección de edición de meta.
+IMPORTANTE: la disponibilidad de reconocimiento de voz depende del navegador, permisos y conexión.
+No manipular el teléfono mientras se conduce. Probar en Android Chrome.
