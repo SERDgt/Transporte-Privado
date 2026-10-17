@@ -1,9 +1,8 @@
-RutFin v1.6 — by Corporación Gran Familia
+RutFin v1.6.1 — Actualización correctiva
 
-IMPORTANTE: Antes de actualizar, abrir la versión anterior y descargar RESPALDO JSON.
-Subir TODOS los archivos de esta carpeta a la raíz de GitHub Pages y confirmar reemplazo.
-No borrar datos de Chrome, no desinstalar la app ni eliminar almacenamiento local antes de verificar el respaldo.
-Abrir sitio y actualizar. Los datos antiguos usan las mismas claves ds_*.
-Clientes y cuentas son datos LOCALES en este dispositivo; no existe sincronización ni notificaciones push.
-El botón de compartir genera un texto de estado de cuenta; la impresión/guardar como PDF depende del navegador.
-Las cifras de rentabilidad son estimadas, no una contabilidad auditada.
+1. Respalda tus datos desde Viajes > Respaldar datos antes de actualizar.
+2. Sube todos los archivos de este ZIP a la raíz de main en GitHub Pages.
+3. No desinstales la aplicación ni borres los datos del navegador.
+4. Prueba Cierre como última pestaña, persistencia al recargar, editar cliente de viajes históricos y formulario limpio al guardar.
+
+Los datos se mantienen en el almacenamiento local del navegador.
