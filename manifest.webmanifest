@@ -1,12 +1,13 @@
 {
-  "name": "RUTIQ — Tu ruta hacia la libertad",
-  "short_name": "RUTIQ",
-  "description": "Cotizaciones y control financiero para pilotos de transporte",
-  "start_url": "./index.html",
+  "id": "./",
+  "name": "RutFin · Tu ruta hacia la libertad",
+  "short_name": "RutFin",
+  "description": "Gestión de viajes, clientes, cuentas por cobrar y costos de vehículos. by Corporación Gran Familia",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f3f7fb",
-  "theme_color": "#081e35",
+  "background_color": "#F3F6FA",
+  "theme_color": "#142B49",
   "icons": [
     {
       "src": "icon-192.png",

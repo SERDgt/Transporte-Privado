@@ -1,9 +1,9 @@
-RUTIQ v1.5 — Identidad visual
+RutFin v1.6 — by Corporación Gran Familia
 
-1. Respalda tus viajes en JSON antes de actualizar.
-2. Sube TODOS los archivos del ZIP a la raíz de tu repositorio GitHub Pages.
-3. Haz commit en main y espera la publicación.
-4. Comprueba el nuevo encabezado y pie de página.
-5. Si el ícono anterior persiste, respalda primero los datos; luego considera quitar el acceso directo antiguo y volver a agregar RUTIQ a la pantalla de inicio.
-
-Esta versión no cambia cálculos, viajes, cierres ni claves de almacenamiento local.
+IMPORTANTE: Antes de actualizar, abrir la versión anterior y descargar RESPALDO JSON.
+Subir TODOS los archivos de esta carpeta a la raíz de GitHub Pages y confirmar reemplazo.
+No borrar datos de Chrome, no desinstalar la app ni eliminar almacenamiento local antes de verificar el respaldo.
+Abrir sitio y actualizar. Los datos antiguos usan las mismas claves ds_*.
+Clientes y cuentas son datos LOCALES en este dispositivo; no existe sincronización ni notificaciones push.
+El botón de compartir genera un texto de estado de cuenta; la impresión/guardar como PDF depende del navegador.
+Las cifras de rentabilidad son estimadas, no una contabilidad auditada.
