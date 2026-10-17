@@ -1,8 +1,7 @@
-RutFin v1.6.1 — Actualización correctiva
+RutFin v1.7.0 — by Corporación Gran Familia
 
-1. Respalda tus datos desde Viajes > Respaldar datos antes de actualizar.
-2. Sube todos los archivos de este ZIP a la raíz de main en GitHub Pages.
-3. No desinstales la aplicación ni borres los datos del navegador.
-4. Prueba Cierre como última pestaña, persistencia al recargar, editar cliente de viajes históricos y formulario limpio al guardar.
+Novedades: cotizador independiente de ida y vuelta, frecuencia por días, 5% de descuento editable, tarifa negociada, cálculos diarios/semanales/mensuales, copiar cotización y guardar cotizaciones.
 
-Los datos se mantienen en el almacenamiento local del navegador.
+IMPORTANTE: descarga y comprueba un respaldo JSON antes de desinstalar. Instalar o desinstalar la PWA puede borrar datos locales. Después de restaurar comprueba viajes, clientes, cuentas y pagos.
+
+Las cotizaciones programadas no crean viajes ni cobros automáticamente.
